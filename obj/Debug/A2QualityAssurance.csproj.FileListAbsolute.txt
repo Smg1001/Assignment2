@@ -1,0 +1,14 @@
+C:\Users\smg10\Desktop\School\Quality Assurance\A2QualityAssurance\bin\Debug\A2QualityAssurance.exe.config
+C:\Users\smg10\Desktop\School\Quality Assurance\A2QualityAssurance\bin\Debug\A2QualityAssurance.exe
+C:\Users\smg10\Desktop\School\Quality Assurance\A2QualityAssurance\bin\Debug\A2QualityAssurance.pdb
+C:\Users\smg10\Desktop\School\Quality Assurance\A2QualityAssurance\obj\Debug\A2QualityAssurance.csprojAssemblyReference.cache
+C:\Users\smg10\Desktop\School\Quality Assurance\A2QualityAssurance\obj\Debug\A2QualityAssurance.exe
+C:\Users\smg10\Desktop\School\Quality Assurance\A2QualityAssurance\obj\Debug\A2QualityAssurance.pdb
+C:\Users\smg10\Desktop\School\Quality Assurance\A2QualityAssurance\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\smg10\Desktop\School\Quality Assurance\A2QualityAssurance\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\smg10\Desktop\School\Quality Assurance\A2QualityAssurance\bin\Debug\nunit.engine.dll
+C:\Users\smg10\Desktop\School\Quality Assurance\A2QualityAssurance\bin\Debug\nunit.engine.api.dll
+C:\Users\smg10\Desktop\School\Quality Assurance\A2QualityAssurance\bin\Debug\nunit.framework.dll
+C:\Users\smg10\Desktop\School\Quality Assurance\A2QualityAssurance\bin\Debug\nunit.framework.pdb
+C:\Users\smg10\Desktop\School\Quality Assurance\A2QualityAssurance\bin\Debug\nunit.framework.xml
+C:\Users\smg10\Desktop\School\Quality Assurance\A2QualityAssurance\obj\Debug\A2QualityAssurance.csproj.CopyComplete
