@@ -21,6 +21,7 @@ namespace A2QualityAssurance
             double S2 = 0.00;
             double S3 = 0.00;
 
+            //program loop so if you make a mistake it can go back to the top
             while (true)
             {
                 while (!menuAnswered)
